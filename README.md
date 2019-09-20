@@ -1,4 +1,4 @@
-# lexical-analysis
+# PASCAL COMPILER (lexical-analysis)
 Lexical Analysis for Pascal Compiler
 Compiler’s Design Project Definition
 Guadalupe De la Cruz Márquez
