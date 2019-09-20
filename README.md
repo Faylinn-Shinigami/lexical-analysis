@@ -195,7 +195,8 @@ The write command as:
  
 d.	Code Generation
 For this project, I decided to implement a small Pascal compiler (that will create an executable file) based on the steps above because, as a procedural & imperative language, it uses a static scope & a block structure that uses a restricted data typing to work properly.
-3.	References
+
+# 3.	References
 [1].	https://en.wikipedia.org/wiki/Pascal_(programming_language)
 [2].	https://www.tutorialspoint.com/pascal/pascal_basic_syntax.htm
 [3].	http://condor.depaul.edu/ichu/csc447/notes/wk2/pascal.html
