@@ -1,0 +1,2 @@
+var
+  numero1 : Integer;

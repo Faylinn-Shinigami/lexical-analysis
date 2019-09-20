@@ -1,0 +1,12 @@
+var
+  s, str1, str2, str3, str4: string;
+  c: char;
+  n: integer;
+ 
+str1 := 'abc';     
+str2 := '123';     
+str3 := #10#13;    
+str4 := 'this is a ''quoted'' string';  
+s := str1 + str2;  
+c := s[1];         
+n := length(s);

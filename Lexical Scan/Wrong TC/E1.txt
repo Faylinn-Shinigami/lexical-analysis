@@ -1,0 +1,7 @@
+begin
+  numero1 := 5;
+  writeln (numero1);
+ end.
+
+var
+  numero1 : Integer;

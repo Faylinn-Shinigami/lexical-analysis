@@ -1,0 +1,9 @@
+I := I+2;  
+do i<=100 while  
+  begin  
+  WriteLn (’I =’,i);  
+  I := I+2;  
+  end;  
+X := X/2;  
+do x>=10e-3 while 
+  X := X/2;
