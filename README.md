@@ -12,17 +12,17 @@ This project will involve the 4 compiler’s stages during the course that are d
 # a.	Lexical Analysis
 In this section I will explain the formal language as input, as well as the instructions I will implement for my current compiler project. 
 1.	Comments. 
-i.	Multi-line comments are set like {* *} 
-ii.	Single line comments are set like {}
-2.	Nested structures. The syntax for a nested for-do loop statement in Pascal is as follows:
-for variable1: =initial_value1 to [down to] final_value1 do
+   - Multi-line comments are set like `{* *}` 
+   - Single line comments are set like `{}`
+2.	Nested structures.
+   - The syntax for a nested for-do loop statement in Pascal is as follows:
+   ![for variable1: =initial_value1 to down to final_value do
 begin
-   for variable2: =initial_value2 to [down to] final_value2 do
-   
+   for variable2: =initial_value2 to down to final_value2 do
    begin   
       statement(s);
    end;
-end;   
+end;]   
 The syntax for a nested while-do loop statement in Pascal is as follows:
 while(condition1) do
 
